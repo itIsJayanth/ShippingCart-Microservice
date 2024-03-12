@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;ShippingService/src/main/java/com.wipro.entity&apos;&#x0A;- Destination element: &apos;ShippingService/src/main/java/com.wipro.entity&apos;" description="Copy compilation units" destination="=ShippingService/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.wipro.entity" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1696873435351" units="0" version="1.0"/>
+</session>
